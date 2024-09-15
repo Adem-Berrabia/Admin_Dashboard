@@ -1,6 +1,6 @@
 # Admin-Dashboard
 
-Website application Implementing Admin Dashboard . using new libraries like Nivo for the Piechart , Linechart , Barchart and FullCalendar for the Calendar
+Website application Implementing Admin Dashboard . Using new libraries like Nivo for the Piechart , Linechart , Barchart and FullCalendar for the Calendar.
 
 ## Built with
 
