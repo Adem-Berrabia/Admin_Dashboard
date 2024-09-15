@@ -16,11 +16,11 @@ import Invoices from "./pages/invoices/Invoices";
 import Form from "./pages/form/Form";
 import Calendar from "./pages/calendar/Calendar";
 import Faq from "./pages/faq/Faq";
-import Barchat from "./pages/barchat/Barchat";
 import Piechart from "./pages/piechart/Piechart";
 import Linechart from "./pages/linechart/Linechart";
 import Geography from "./pages/geography/Geography";
 import NotFound from "./pages/notfound/NotFound";
+import Barchat from "pages/barchat/Barchat";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
