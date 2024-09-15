@@ -9,6 +9,8 @@ Website application Implementing Admin Dashboard .
 
 ## Demo
 
+https://admin-dashboard-tn.netlify.app/
+
 ## Run Locally
 
 Clone the project
