@@ -1,7 +1,7 @@
 import { Paper, Stack, Typography, useTheme } from "@mui/material";
 import Pie from "../../pages/piechart/Pie";
 // @ts-ignore
-import Bar from "../../pages/barchat/bar";
+import Bar from "../../pages/barchat/Bar";
 import Geo from "../../pages/geography/Geo";
 
 export default function Row3() {
