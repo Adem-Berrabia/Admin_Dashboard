@@ -1,11 +1,11 @@
 import { Box, useTheme } from "@mui/material";
-import Bar from "./bar";
-import Header from "../../components/Header";
 
+import Header from "../../components/Header";
+import Bar from "./bar";
 
 export default function Barchat() {
   // eslint-disable-next-line no-unused-vars
-  const theme=useTheme()
+  const theme = useTheme();
   return (
     <Box>
       <Header
