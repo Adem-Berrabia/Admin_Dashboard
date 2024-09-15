@@ -1,0 +1,43 @@
+# React-App
+
+Website application Implementing Admin Dashboard .
+
+## Built with
+
+- [React-JS](https://react.dev/) JS library
+- [MUI](https://mui.com/) Library of React
+
+## Demo
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ITSADEM/Admin-Dashboard
+```
+
+Go to the project directory
+
+```bash
+  cd Admin-Dashboard
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Author : Adem Berrabia
+
+- Github - [Github](https://github.com/ITSADEM)
+- Facebook - [Facebook](https://www.facebook.com/profile.php?id=100022888083591)
+- Instagram - [Instagram](https://www.instagram.com/adem_rb3/?hl=fr)
+"# Admin_Dashboard" 
