@@ -20,7 +20,7 @@ import Piechart from "./pages/piechart/Piechart";
 import Linechart from "./pages/linechart/Linechart";
 import Geography from "./pages/geography/Geography";
 import NotFound from "./pages/notfound/NotFound";
-import Barchat from "pages/barchat/Barchat";
+import Barchat from "./pages/barchat/Barchat";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
