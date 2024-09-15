@@ -1,7 +1,7 @@
 import { Box, useTheme } from "@mui/material";
 
 import Header from "../../components/Header";
-import Bar from "./bar";
+import Bar from "./Bar";
 
 export default function Barchat() {
   // eslint-disable-next-line no-unused-vars
