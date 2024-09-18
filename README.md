@@ -1,6 +1,8 @@
 # Admin-Dashboard
 
-Website application Implementing Admin Dashboard . Using new libraries like Nivo for the Piechart , Linechart , Barchart and FullCalendar for the Calendar.
+A modern and responsive admin dashboard built with React JS and Material-UI (MUI), featuring a clean layout, intuitive navigation, and interactive components for efficient website management.
+
+
 
 ## Built with
 
